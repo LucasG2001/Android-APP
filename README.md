@@ -3,6 +3,8 @@ Android Studio Projekt für meine BSC
 Aufbau:
 Im java/com.example.BLEAPP2 Ordner sind mehrere Klassen. Der code ist teilweise übernommen.
 
+Der richtige Code ist im Ordner BLEAPP 2 nicht im BLEAPP2-Kopie!
+
 BatteryData: KLasse für Batterieinformationen (nicht relevant)
 
 RecyclerBLEActivity: "This is a recycler activity that displays the list of the BLE devices available in the scan." Das funktioniert auch einwandfrei, könnte aber evtl mit andern BLE-Klassen interferieren.
