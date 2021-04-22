@@ -4,6 +4,7 @@ Aufbau:
 Im java/com.example.BLEAPP2 Ordner sind mehrere Klassen. Der code ist teilweise übernommen.
 
 Der richtige Code ist im Ordner BLEAPP 2 nicht im BLEAPP2-Kopie!
+DIE KRITISCHE STELLE IST IN DER KLASSE BluetoothLewService.java in Zeile 138. Die For schleide in der Zeile darunter wird aus irgendeinem Grund nicht erreicht.
 
 BatteryData: KLasse für Batterieinformationen (nicht relevant)
 
